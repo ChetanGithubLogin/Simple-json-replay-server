@@ -1,0 +1,13 @@
+{
+    "request" : {
+        "path": "test2.json",
+        "method" : "get"
+        
+    },
+    "response" : {
+        "status" : 200,
+        "data" : {
+            "message" : "from example 2"
+        }
+    }
+}
